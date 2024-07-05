@@ -2,7 +2,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 class ApiService {
-  static const String _baseUrl = 'https://your-api-url/api/endpoint';
+  static const String _baseUrl = '';
 
   Future<List<dynamic>> fetchData() async {
     final response = await http.get(Uri.parse(_baseUrl));

@@ -1,0 +1,10 @@
+C:/Users/ege_k/OneDrive/Masaüstü/WebCode/butcheAppUI/windows/CMakeFiles/INSTALL.dir
+C:/Users/ege_k/OneDrive/Masaüstü/WebCode/butcheAppUI/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/ege_k/OneDrive/Masaüstü/WebCode/butcheAppUI/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/ege_k/OneDrive/Masaüstü/WebCode/butcheAppUI/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/ege_k/OneDrive/Masaüstü/WebCode/butcheAppUI/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/ege_k/OneDrive/Masaüstü/WebCode/butcheAppUI/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/ege_k/OneDrive/Masaüstü/WebCode/butcheAppUI/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/ege_k/OneDrive/Masaüstü/WebCode/butcheAppUI/windows/runner/CMakeFiles/butche_app.dir
+C:/Users/ege_k/OneDrive/Masaüstü/WebCode/butcheAppUI/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/ege_k/OneDrive/Masaüstü/WebCode/butcheAppUI/windows/runner/CMakeFiles/ALL_BUILD.dir
